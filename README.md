@@ -11,6 +11,14 @@
 }
 
 {
+ 
+  "email": "rasid12@gmail.com",
+  "password": "Rasid_12",
+  "role": "admin",
+  
+}
+
+{
   "fullName": "Rohit Karki",
   "email": "rohit12@gmail.com",
   "password": "SecureP@ssw0rd!",
